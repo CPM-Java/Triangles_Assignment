@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=a\ b\ c
+comment0.target=java.lang.String\ isTriangle(int,\ int,\ int)
+comment0.text=\n\ Determines\ if\ a\ triangle\ is\ possible,\ if\ so\ classifies\n\ it\ as\ equilateral,\ isosceles,\ scalene\ and/or\ right.\n\ \n\ @param\ \ a\ \ \ an\ integer\ side\ length\ of\ a\ potential\ triangle\n\ @param\ \ b\ \ \ an\ integer\ side\ length\ of\ a\ potential\ triangle\n\ @param\ \ c\ \ \ an\ integer\ side\ length\ of\ a\ potential\ triangle\n\ @return\ \ \ \ \ a\ String\ stating\ the\ type\ of\ triangle\ \n
+numComments=1
